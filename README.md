@@ -1,0 +1,1 @@
+Ce projet explore les techniques de clustering et réduction de dimension pour analyser et segmenter des données clients et marketing. À travers des notebooks interactifs, il démontre comment utiliser KMeans et PCA pour identifier des groupes homogènes, visualiser les résultats et interpréter les profils détectés.
